@@ -1,4 +1,5 @@
 - Hi There, I’m @wh1teFoxx
+- English / Spanish
 - I’m interested in data science and new technologies / Java & Javascript User / looking for learning python 
 - 🌱 Current software development student in Mexico
 - 💞️ I’m looking to collaborate with the Community of programmers in Mexico and all around the world!
